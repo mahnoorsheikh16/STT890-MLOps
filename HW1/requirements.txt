@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 pandas
 numpy
 scikit-learn
+=======
+pandas
+numpy
+scikit-learn
+>>>>>>> f6d09ba25b47f85969267863b23c09df8106f298
 joblib
